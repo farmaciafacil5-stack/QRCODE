@@ -1,0 +1,7 @@
+{
+  "name": "meu-pix/app",
+  "description": "Gerador de PIX com SigiloPay",
+  "require": {
+    "php": ">=7.4"
+  }
+}
